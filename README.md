@@ -1,4 +1,6 @@
 #QA Automation Journey
+## Goal
+To become a QA Automation Engineer and build strong fundamentals step by step.
 
 ## Day 1 - JavaScript Basics
 
