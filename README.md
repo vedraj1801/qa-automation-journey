@@ -28,6 +28,14 @@ To become a QA Automation Engineer and build strong fundamentals step by step, w
 * Filtering data (even numbers)
 * Finding largest number
 
+### Day 4 - Objects
+
+* Object creation
+* Accessing values
+* Looping through objects
+* Basic validation (Adult/Minor)
+* Introduction to real-world data structures
+
 ---
 
 ## 📂 Folder Structure
@@ -36,6 +44,7 @@ qa-automation-journey/
 ├── Day-1/
 ├── Day-2/
 ├── Day-3/
+├── Day-4/
 
 ---
 
@@ -47,9 +56,12 @@ qa-automation-journey/
 
 ## 📌 Next Steps
 
-* Day 4: Objects
 * Day 5: Advanced JavaScript basics
-* Start QA concepts (Manual Testing, API Testing)
+* Start QA Phase:
+
+  * Manual Testing
+  * Bug Reporting
+  * API Testing (Postman)
 * Move to Automation (Playwright)
 
 ---
